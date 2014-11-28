@@ -5,7 +5,7 @@ public class JavaPractice {
     static int choice;
     static List result = new ArrayList();
     static int[] arr = {
-        10,20,30,-40,-10,0
+        10,20,30,-40,-10
     };
     
     public static void main(String[] args) {
